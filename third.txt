@@ -1,2 +1,0 @@
-This is my first version of the project.
-we are going to commit.
